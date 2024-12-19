@@ -1,6 +1,5 @@
 # HR-Analytics-Dashboard
 
-Add files via upload
 Key Performance Indicators (KPIs):
 Total Employees: 1,480
 Attrition Count: 238 employees
