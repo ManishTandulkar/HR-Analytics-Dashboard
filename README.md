@@ -10,8 +10,8 @@ Average Salary: ₹6.5K (currency unclear, assuming INR per month)
 Average Years of Experience: 7.0 years    
  
 Insights:
-
 Attrition by Education Field: 
+
 Life Sciences: 37% of attrition 
 Medical: 26%  
 Marketing: 15%   
