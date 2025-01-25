@@ -2,20 +2,20 @@
 
 Key Performance Indicators (KPIs):
 
-Total Employees: 1,480     
-Attrition Count: 238 employees
-Attrition Rate: 16.1%
-Average Age of Employees: 37 years
-Average Salary: ₹6.5K (currency unclear, assuming INR per month)
-Average Years of Experience: 7.0 years
-
+Total Employees: 1,480        
+Attrition Count: 238 employees   
+Attrition Rate: 16.1%   
+Average Age of Employees: 37 years    
+Average Salary: ₹6.5K (currency unclear, assuming INR per month)   
+Average Years of Experience: 7.0 years    
+ 
 Insights:
 
-Attrition by Education Field:
-Life Sciences: 37% of attrition
-Medical: 26%
-Marketing: 15%
-Technical Degrees: 13%
+Attrition by Education Field: 
+Life Sciences: 37% of attrition 
+Medical: 26%  
+Marketing: 15%   
+Technical Degrees: 13%   
 Other: 5%
 
 Attrition by Age Group :
